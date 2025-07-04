@@ -10,25 +10,26 @@ Dataset Description
 
 # Tasks and Solutions
 
-I cleaned and transformed the data using Power BI tools in Excel (Power Query), shortened long product names and categories using delimiters, and removed unnecessary data. I then built pivot tables and calculated columns to answer key business questions:
-
-✅ Average discount % by category
-✅ Count of products per category
-✅ Total reviews per category
-✅ Products with highest average ratings
-✅ Avg actual vs discounted price by category
-✅ Products with highest review counts
-✅ Count of products with ≥50% discount
-✅ Product rating distribution
-✅ Potential revenue (actual price × rating count) per category
-✅ Unique products by price bucket
-✅ Relationship between discount level and rating
-✅ Products with <1,000 reviews
-✅ Categories with highest discounts
-✅ Top 5 products by rating + review count
-
+| Task | Solution |
+|-------|----------|
+| What is the average discount percentage by product category? | Used pivot tables to calculate the mean discount for each category. |
+| How many products are listed under each category? | Counted products per category using pivot table groupings. |
+| What is the total number of reviews per category? | Summed up review counts in pivot tables grouped by category. |
+| Which products have the highest average ratings? | Sorted products by average rating using pivot table values. |
+| What is the average actual price vs discounted price by category? | Computed averages of actual and discounted prices in pivot tables. |
+| Which products have the highest number of reviews? | Identified products with maximum review counts through sorting. |
+| How many products have a discount of 50% or more? | Filtered and counted products meeting the 50%+ discount condition. |
+| What is the distribution of product ratings? | Grouped and counted products by rating values using pivot tables. |
+| What is the total potential revenue by category? | Calculated (actual price × rating count) in a calculated column and summed by category. |
+| What is the number of unique products per price range bucket? | Bucketed products into price ranges and counted using pivot tables. |
+| How does the rating relate to the level of discount? | Analyzed correlation patterns via pivot summaries. |
+| Which categories have products with the highest discounts? | Identified categories with the top discount values using pivot filters. |
+| Identify the top 5 products in terms of rating and number of reviews combined. | Created a custom metric combining rating + reviews, sorted top 5. |
 
 # Analysed File
 [Download the excel file](https://docs.google.com/spreadsheets/d/1927BeVIR7lBPq0qzhnLil57ZwdFlZOl7/edit?usp=drivesdk&ouid=111955908001061304997&rtpof=true&sd=true)
 
 ➡ The final output includes a cleaned dataset, pivot table summaries, and an Excel dashboard showcasing insights on product performance, pdd ricing, discounts, and customer feedback.
+# Visuals and Dashboard
+[Amazon dashboard](pictures/screenshots/amazon_dashboard.png)
+
