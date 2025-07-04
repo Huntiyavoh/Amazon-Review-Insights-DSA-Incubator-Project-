@@ -29,5 +29,6 @@ I cleaned and transformed the data using Power BI tools in Excel (Power Query), 
 
 
 # Analysed File
+[Download the excel file](https://docs.google.com/spreadsheets/d/1927BeVIR7lBPq0qzhnLil57ZwdFlZOl7/edit?usp=drivesdk&ouid=111955908001061304997&rtpof=true&sd=true)
 
-➡ The final output includes a cleaned dataset, pivot table summaries, and an Excel dashboard showcasing insights on product performance, pricing, discounts, and customer feedback.
+➡ The final output includes a cleaned dataset, pivot table summaries, and an Excel dashboard showcasing insights on product performance, pdd ricing, discounts, and customer feedback.
