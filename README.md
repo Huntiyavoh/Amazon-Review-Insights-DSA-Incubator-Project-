@@ -27,7 +27,7 @@ Dataset Description
 | Identify the top 5 products in terms of rating and number of reviews combined. | Created a custom metric combining rating + reviews, sorted top 5. |
 
 # Analysed File
-[excel Data](https://drive.google.com/file/d/1exizJdQTf0oi0jooAcylB9iAtc-H400D/view?usp=drive_link)
+[Excel Data](https://docs.google.com/spreadsheets/d/1IRVKblLdvq9-Mafsnhv1wDYHiWPteLvB/edit?usp=drive_link&ouid=111955908001061304997&rtpof=true&sd=true)
 ➡ The final output includes a cleaned dataset, pivot table summaries, and an Excel dashboard showcasing insights on product performance, pdd ricing, discounts, and customer feedback.
 # Visuals and Dashboard
 ![Amazon dashboard](https://github.com/user-attachments/assets/cc57057a-97e3-42e3-91b9-a368b71e87db)
