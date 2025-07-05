@@ -32,3 +32,7 @@ Dataset Description
 ➡ The final output includes a cleaned dataset, pivot table summaries, and an Excel dashboard showcasing insights on product performance, pdd ricing, discounts, and customer feedback.
 # Visuals and Dashboard
 ![Amazon dashboard](https://github.com/user-attachments/assets/cc57057a-97e3-42e3-91b9-a368b71e87db)
+![Pivot Tables](https://github.com/user-attachments/assets/d7806e7f-1efc-4462-b2de-13cdf1088f58)
+![Clean data](https://github.com/user-attachments/assets/b434ba10-fdd5-41f6-b870-8f28ad05df63)
+
+
