@@ -52,7 +52,7 @@ Category Discount Trends: Health and home categories consistently offer the stee
 |-----------------------|----------------------------------------------------------------------------------------------|
 | Data Cleaning         | Cleansed datasets by handling missing values, fixing formatting issues, and standardizing text |
 | Data Aggregation      | Leveraged pivot tables and grouping techniques to uncover trends and summarize key metrics    |
-| Excel Formulas        | Used smart formulas like IF, power BI query to automate calculations         |
+| Excel Formulas        | Used smart formulas like IF,IFS, COUNT, COUNT A,MAX, SUM, AVERAGE, SUMIF and power BI query to automate calculations         |
 | Data Visualization    | Created clear, insightful visuals—bar charts, pie charts, line graphs, donut charts, and KPI cards |
 | Interactive Dashboards| Integrated slicers and cards to enable dynamic filtering and real-time performance tracking    |
 | Business Analysis     | Interpreted data patterns with strategic thinking to generate actionable business takeaways    |
